@@ -6,7 +6,7 @@ Check the the weather forecast for your city with this Python code (Brazilian ci
 ```pip install --user -r requirements.txt```
 
 ### Usage:
-```python3 tempo.py```
+```python3 weatherForecast.py```
 ```
 Checking the weather forecast on tempoagora.com.br
 Input the data
