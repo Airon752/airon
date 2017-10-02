@@ -1,23 +1,23 @@
-# Consulta a Previsão do Tempo com Python
+# Check the Weather Forecast using Python
 
-Consulte a previsão do tempo para sua cidade no site [tempoagora.com.br](http://www.tempoagora.com.br/previsao-do-tempo).
+Check the the weather forecast for your city with this Python code (Brazilian cities only). Data from the website [tempoagora.com.br](http://www.tempoagora.com.br/previsao-do-tempo).
 
-#### Instale as dependências com pip
-```pip install -r requirements.txt```
+#### Install dependencies with pip
+```pip install --user -r requirements.txt```
 
-### Exemplo de uso:
+### Usage:
 ```python3 tempo.py```
 ```
-Consultando a previsão do tempo em tempoagora.com.br
-Entre com os dados para
-Estado: sp
-Cidade: São Paulo
+Checking the weather forecast on tempoagora.com.br
+Input the data
+State: sp
+City: São Paulo
 
 
-Previsão do Tempo para São Paulo - SP - Tempo Agora
-Temperatura:  18°C
-Sesação:  17°C
-Velocidade do Vento:  20.37 km/h
-Pressão:  1026 mb
-Umidade: 82.65%
+Weather Forecast for São Paulo - SP - Tempo Agora
+Temperature:  18°C
+Thermal sensation:  17°C
+Wind Speed:  20.37 km/h
+Pressure:  1026 mb
+Humidity: 82.65%
 ```
